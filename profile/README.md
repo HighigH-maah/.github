@@ -32,6 +32,7 @@
 # 💳 페이지 및 기능 구성
 
 ### 🖧 배포
+![Group 1000003347](https://github.com/HighigH-maah/.github/assets/89927567/776e2872-6ba7-41e6-856f-c061ce0bfd88)
 
 <!--
 
