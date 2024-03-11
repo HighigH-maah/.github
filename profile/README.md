@@ -32,10 +32,10 @@
 # 💳 페이지 및 기능 구성
 
 ### 🖧 배포
-- 개별 작업을 Github를 통해 관리하고, main branch에 push할 시 GitHub Actions를 통해  Azure의 정적 웹페이지(front)와 웹서버(back)에 배포   
-![Group 1000003347 (1)](https://github.com/HighigH-maah/.github/assets/89927567/80e46bc2-605c-434e-ab55-4c5d17ab241e)
 
-
+- 개별 작업을 Github를 통해 관리하고, main branch에 push할 시 GitHub Actions를 통해  
+  Azure의 정적 웹페이지(front)와 웹서버(back)에 배포  
+  ![Group 1000003347 (1)](https://github.com/HighigH-maah/.github/assets/89927567/80e46bc2-605c-434e-ab55-4c5d17ab241e)
 
 <!--
 
