@@ -18,6 +18,10 @@
   </tbody>
 </table>
 
+
+# 💳 ERD 설계
+![postgres - public](https://github.com/HighigH-maah/.github/assets/89927567/61dfeaa4-6327-4ec2-8b83-867e8a419b90)
+
 <!--
 
 **Here are some ideas to get you started:**
