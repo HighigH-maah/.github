@@ -66,7 +66,7 @@
 - 하이카드 신청 페이지
 
   - 하이카드/바이카드 신청 과정 (본인인증, 신분증 인증, 계좌 인증 등으로 구성)
-  ![HiCard](https://github.com/HighigH-maah/.github/assets/100287621/b48c55ca-116d-4346-b75f-4775db721ed5)
+    <img src="https://github.com/HighigH-maah/.github/assets/100287621/b48c55ca-116d-4346-b75f-4775db721ed5" width="70%">
 
 
 <!--
