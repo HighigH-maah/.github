@@ -47,6 +47,13 @@
   Azure의 정적 웹페이지(front)와 웹서버(back)에 배포  
   ![Group 1000003347 (1)](https://github.com/HighigH-maah/.github/assets/89927567/80e46bc2-605c-434e-ab55-4c5d17ab241e)
 
+### 🌈 About Us
+
+- Ma:ah 카드 서비스 소개
+
+  - Ma:ah 카드 서비스의 핵심인 CREATE, SHARE, BENEFITS를 소개
+    <img src="https://github.com/HighigH-maah/.github/assets/80210564/4e83748d-a192-40c9-a2e3-26652fabdc37" width="70%">
+
 ### 🌈 메인
 
 - 서비스 메인 페이지
