@@ -49,7 +49,9 @@
 
 ### 🌈 메인페이지
 
-<img src="https://github.com/HighigH-maah/.github/assets/144782356/74ed21c0-19ff-4624-85e4-74ba6d77b3c5" width="70%">
+- 서비스 첫 메인 페이지
+
+    <img src="https://github.com/HighigH-maah/.github/assets/144782356/74ed21c0-19ff-4624-85e4-74ba6d77b3c5" width="70%">
 
 <!--
 
