@@ -60,7 +60,15 @@
 
   - 소유카드를 바이카드로 등록/해제, 카드 상세페이지 이동, 연결계좌 변경
     <img src="https://github.com/HighigH-maah/.github/assets/144782356/bdfd1901-7198-4388-8e6d-b78d1e6d9094" width="70%">
-    
+
+### 💳 카드 신청
+
+- 하이카드 신청 페이지
+
+  - 하이카드/바이카드 신청 과정 (본인인증, 신분증 인증, 계좌 인증 등으로 구성)
+  ![HiCard](https://github.com/HighigH-maah/.github/assets/100287621/b48c55ca-116d-4346-b75f-4775db721ed5)
+
+
 <!--
 
 **Here are some ideas to get you started:**
