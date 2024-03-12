@@ -49,6 +49,8 @@
 
 ### 🌈 메인페이지
 
+<img src="https://github.com/HighigH-maah/.github/assets/144782356/7c9da920-a465-4747-ab2e-4eab836276f3" width="70%">
+
 <!--
 
 **Here are some ideas to get you started:**
