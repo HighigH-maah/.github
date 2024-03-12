@@ -36,10 +36,10 @@
 - 하이카드에 쌓인 포인트를 바이카드에 분배할 수 있는 페이지
 
   - 하이카드와 바이카드에 들어있는 혜택을 확인
-    <img src="https://github.com/HighigH-maah/.github/assets/89927567/f6642d43-2ab5-48c4-a514-a2b12757808e" width="80%">
+    <img src="https://github.com/HighigH-maah/.github/assets/89927567/f6642d43-2ab5-48c4-a514-a2b12757808e" width="70%">
 
   - 혜택 요건에 맞춰 바이카드에 포인트를 분배  
-    <img src="https://github.com/HighigH-maah/.github/assets/89927567/98a9a43c-b4f0-4533-8c2b-5a7bd11675fe" width="80%">
+    <img src="https://github.com/HighigH-maah/.github/assets/89927567/98a9a43c-b4f0-4533-8c2b-5a7bd11675fe" width="70%">
 
 ### 🖧 배포
 
