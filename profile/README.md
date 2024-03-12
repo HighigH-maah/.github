@@ -47,6 +47,8 @@
   Azure의 정적 웹페이지(front)와 웹서버(back)에 배포  
   ![Group 1000003347 (1)](https://github.com/HighigH-maah/.github/assets/89927567/80e46bc2-605c-434e-ab55-4c5d17ab241e)
 
+### 🌈 메인페이지
+
 <!--
 
 **Here are some ideas to get you started:**
