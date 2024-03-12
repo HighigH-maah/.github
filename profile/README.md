@@ -13,7 +13,7 @@
 
 📆 2024.01.26 ~ 2024.02.29
 
-<img src="https://github.com/HighigH-maah/.github/assets/80210564/1f1668e2-c1b5-4620-9f40-704c672157d8" width="70%">
+<img src="https://github.com/HighigH-maah/.github/assets/80210564/87a60896-ae1a-42a0-bacd-22310405d3cd" width="70%">
 
 # 💳 조원소개
 
