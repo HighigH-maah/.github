@@ -58,7 +58,9 @@
 
 - 하이카드 및 바이카드, 소유카드 목록 조회 페이지
 
-  - 소유카드를 바이카드로 등록/해제, 카드 상세페이지 이동, 연결계좌 변경 
+  - 소유카드를 바이카드로 등록/해제, 카드 상세페이지 이동, 연결계좌 변경
+    <img src="https://github.com/HighigH-maah/.github/assets/144782356/bdfd1901-7198-4388-8e6d-b78d1e6d9094" width="70%">
+    
 <!--
 
 **Here are some ideas to get you started:**
